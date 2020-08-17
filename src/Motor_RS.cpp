@@ -37,7 +37,7 @@ void Motor_RS::right()
   analogWrite(_pin4, pwm);
 }
 
-void Motor_RS::lift()
+void Motor_RS::left()
 {
   analogWrite(_pin1, pwm);
   digitalWrite(_pin2, LOW); 
