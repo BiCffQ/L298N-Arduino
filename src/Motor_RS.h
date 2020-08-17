@@ -9,7 +9,7 @@ class Motor_RS
     Motor_RS(int pin1, int pin2, int pin3, int pin4);
     void forward();
     void back();
-    void lift();
+    void left();
     void right();
     void stop();
   private:
