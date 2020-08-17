@@ -6,7 +6,6 @@
 |           |  Reverse(pwm)   |   0   | 1/PWM |       |       |
 |           |  Standby        |   0   |   0   |       |       |
 |           |  Brake          |   1   |   1   |       |       |
-|-----------|-----------------|-------|-------|-------|-------|
 | Motor-B   |  Forward(pwm)   |       |       | 1/PWM | 0     |
 |           |  Reverse(pwm)   |       |       |   0   | 1/PWM |
 |           |  Standby        |       |       |   0   |   0   |
